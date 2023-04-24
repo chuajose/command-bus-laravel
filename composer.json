@@ -1,5 +1,5 @@
 {
-    "name": "upthemedia/command-bus",
+    "name": "chuajose/command-bus",
     "description": "description",
     "minimum-stability": "stable",
     "license": "proprietary",
@@ -11,12 +11,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Upthemedia\\CommandBus\\": "src/"
+            "Chuajose\\CommandBus\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Upthemedia\\CommandBus\\Tests\\": "tests/"
+            "Chuajose\\CommandBus\\Tests\\": "tests/"
         }
     },
     "require": {
