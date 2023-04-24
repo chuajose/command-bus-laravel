@@ -7,10 +7,10 @@ use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Str;
 use ReflectionMethod;
-use Upthemedia\CommandBus\Services\CommandBusInterface;
-use Upthemedia\CommandBus\Services\CommandHandlerInterface;
-use Upthemedia\CommandBus\Services\CommandInterface;
-use Upthemedia\CommandBus\Services\LaravelCommandBus;
+use Chuajose\CommandBus\Services\CommandBusInterface;
+use Chuajose\CommandBus\Services\CommandHandlerInterface;
+use Chuajose\CommandBus\Services\CommandInterface;
+use Chuajose\CommandBus\Services\LaravelCommandBus;
 
 class CommandBusServiceProvider extends ServiceProvider
 {
