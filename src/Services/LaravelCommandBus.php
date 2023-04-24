@@ -1,6 +1,6 @@
 <?php
 
-namespace Upthemedia\CommandBus\Services;
+namespace Chuajose\CommandBus\Services;
 
 use Illuminate\Bus\Dispatcher;
 use Illuminate\Bus\Queueable;

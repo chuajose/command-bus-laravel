@@ -1,6 +1,6 @@
 <?php
 
-namespace Upthemedia\CommandBus\Services;
+namespace Chuajose\CommandBus\Services;
 
 interface CommandInterface
 {

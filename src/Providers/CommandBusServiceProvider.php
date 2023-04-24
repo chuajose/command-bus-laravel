@@ -1,6 +1,6 @@
 <?php
 
-namespace Upthemedia\CommandBus\Providers;
+namespace Chuajose\CommandBus\Providers;
 
 
 use Illuminate\Contracts\Container\BindingResolutionException;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Upthemedia\CommandBus;
+namespace Chuajose\CommandBus;
 
 class CommandBus
 {
